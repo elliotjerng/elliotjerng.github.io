@@ -1,8 +1,8 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Elliot Jerng
+position: MS Student
+affiliation: Columbia University
+email: ejj2134 (at) columbia.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,8 +12,7 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
+cv_link: assets/files/ElliotJerng CV.pdf
 github_link: https://github.com/
 linkedin: https://www.linkedin.com/
 twitter: https://twitter.com/
