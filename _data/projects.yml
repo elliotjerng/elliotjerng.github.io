@@ -1,0 +1,15 @@
+- title: Evaluating AI Agents on Biophysical Parameter Recovery in Single-Neuron Modeling
+  date: Ongoing
+  ongoing: true
+  institution: Terminal Bench Science
+  institution_url: https://www.terminal-bench-science.ai/
+  description: Contributing a task on biophysical parameter recovery in single-neuron modeling to Terminal Bench Science — a benchmark evaluating AI agents on real computational workflows from scientific research. This benchmark aims to drive scientific progress in AI agents at frontier labs by defining what those labs optimize for.
+  image: assets/
+  caption:
+
+- title: Classifying Hand Movements From sEMG Data
+  date: Spring Semester 2026
+  institution: CS 4100 Artifical Intelligence Final Project
+  institution_url: https://github.com/elliotjerng/sEMG
+  description: Built linear and non-linear classifiers from scratch (LDA, SVM, KNN, MLP) to recreate state of the art results for hand movement classification.
+  image: assets/
