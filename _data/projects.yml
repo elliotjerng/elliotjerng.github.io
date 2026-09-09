@@ -1,6 +1,5 @@
 - title: Evaluating AI Agents on Biophysical Parameter Recovery in Single-Neuron Modeling
-  date: Ongoing
-  ongoing: true
+  date: Ongoing Work
   institution: Terminal Bench Science
   institution_url: https://www.terminal-bench-science.ai/
   description: Contributing a task on biophysical parameter recovery in single-neuron modeling to Terminal Bench Science — a benchmark evaluating AI agents on real computational workflows from scientific research. This benchmark aims to drive scientific progress in AI agents at frontier labs by defining what those labs optimize for.
