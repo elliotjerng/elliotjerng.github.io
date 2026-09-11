@@ -95,7 +95,7 @@
         </div>
         <div class="project-content" style="flex: 0 0 70%; max-width: 70%; padding-right: 15px; padding-left: 20px;">
             <div class="title" style="font-weight: bolder; font-size: 1.1em;"><a style="color: inherit; text-decoration: none;">{{ project.title }}</a></div>
-            <div class="author" style="margin-top: 2px;">{{ project.date }}{% if project.institution %} | {% if project.institution_url %}<a href="{{ project.institution_url }}" target="_blank" rel="noopener noreferrer">{{ project.institution }}</a>{% else %}{{ project.institution }}{% endif %}{% endif %}</div>
+            <div class="author" style="margin-top: 2px;">{{ project.date }}{% if project.institution %} | {% if project.institution_url %}<a href="{{ project.institution_url }}" target="_blank" rel="noopener noreferrer">{{ project.institution }}</a>{% else %}{{ project.institution }}{% endif %}{% endif %}{% if project.link_url %} | <a href="{{ project.link_url }}" target="_blank" rel="noopener noreferrer">{{ project.link_text | default: project.link_url }}</a>{% endif %}</div>
             <div class="periodical" style="margin-top: 5px; font-size: 0.95em;">{{ project.description }}</div>
         </div>
     </div>

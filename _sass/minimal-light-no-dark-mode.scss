@@ -1,3 +1,11 @@
+::selection {
+  background: rgb(243, 230, 232);
+}
+
+::-moz-selection {
+  background: rgb(243, 230, 232);
+}
+
 .pub-row {
   display: flex; 
   align-items: center;}
@@ -7,7 +15,7 @@
   height:2.4rem;
   width:2.4rem;
   background-color:transparent;
-  color:#043361!important;
+  color:rgb(206, 151, 161)!important;
   border-radius:100%;
   text-align:center;
   font-size:1.15rem;
@@ -183,18 +191,18 @@ papertitle {
 
 h3, h4, h5, h6 {
   font-weight: 600;
-  color:#043361;
+  color:rgb(145, 106, 113);
   margin:0 0 20px;
 }
 
 h1 {
   font-weight: 500;
-  color:#043361;
+  color:rgb(145, 106, 113);
   margin:0 0 20px;
 }
 
 h2 {
-  color:#043361;
+  color:rgb(145, 106, 113);
   font-weight: 500;
   margin:2px 0px 15px;
   font-size: 157%;
@@ -213,12 +221,12 @@ h1 {
 }
 
 a {
-  color:#39c;
+  color:rgb(206, 151, 161);
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color:rgb(165, 121, 129);
 }
 
 a small {

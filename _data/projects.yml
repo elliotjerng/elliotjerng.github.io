@@ -2,16 +2,20 @@
   date: Ongoing Work
   institution: Terminal Bench Science
   institution_url: https://www.terminal-bench-science.ai/
+  link_text: Task Proposal
+  link_url: https://github.com/harbor-framework/terminal-bench-science/discussions/509
   description: Contributing a task on biophysical parameter recovery in single-neuron modeling to Terminal Bench Science — a benchmark evaluating AI agents on real computational workflows from scientific research. This benchmark aims to drive scientific progress in AI agents at frontier labs by defining what those labs optimize for.
   image: assets/
   caption:
 
-- title: Classifying Hand Movements From sEMG Data
-  date: Spring Semester 2026
-  institution: CS 4100 Artifical Intelligence Final Project
-  institution_url: https://github.com/elliotjerng/sEMG
+- title: Classifying Hand Movements from sEMG Data
+  date: Mar 2026
+  institution: Northeastern University
+  institution_url: http://northeastern.edu/
+  link_text: Code
+  link_url: https://github.com/elliotjerng/sEMG
   description: Built linear and non-linear classifiers from scratch (LDA, SVM, KNN, MLP) to recreate state of the art results for hand movement classification.
-  image: assets/
+  image: assets/img/Ninapro_hand_pose.gif
 
 - title: Calcium Imaging Data Analysis Pipeline
   date: Aug 2025 - Feb 2026
@@ -24,12 +28,16 @@
   date: Jul 2025 - Nov 2025
   institution: Sabatini Lab
   institution_url: https://sabatini.hms.harvard.edu/
+  link_text: Code
+  link_url: https://github.com/shunnnli/EP-LHb-model
   description: Developed a custom reinforcement learning environment to model our operant conditioning behavioral task. Implemented several tasks to test the adaptive learning advantages of the co-release mechanism.
-  image: assets/
+  image: assets/img/RL_viz.jpg
 
 - title: Modeling Synaptic Sign Switching
   date: Nov 2024 - Feb 2025
   institution: Sabatini Lab
   institution_url: https://sabatini.hms.harvard.edu/
+  link_text: Code
+  link_url: https://github.com/elliotjerng/SynapticPlasticityModel
   description: By shifting data targets throughout ANN learning, we developed a task to evaluate synaptic sign switching. Comparing sign-fixed ANNs following Dale's Law to co-releasing ANNs showed advantages of the co-release mechanism in sparsely active networks.
   image: assets/
