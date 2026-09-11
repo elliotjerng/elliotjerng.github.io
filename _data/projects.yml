@@ -12,3 +12,24 @@
   institution_url: https://github.com/elliotjerng/sEMG
   description: Built linear and non-linear classifiers from scratch (LDA, SVM, KNN, MLP) to recreate state of the art results for hand movement classification.
   image: assets/
+
+- title: Calcium Imaging Data Analysis Pipeline
+  date: Aug 2025 - Feb 2026
+  institution: AbbVie
+  institution_url: https://www.abbvie.com/
+  description: Built a Streamlit app for spike-detection and customizable data analysis of calcium-imaging data. The app was designed to identify schizophrenia-relevant phenotypes in high-throughput calcium imaging data. 
+  image: assets/
+
+- title: Reinforcement Learning Model of Co-releasing Circuits
+  date: Jul 2025 - Nov 2025
+  institution: Sabatini Lab
+  institution_url: https://sabatini.hms.harvard.edu/
+  description: Developed a custom reinforcement learning environment to model our operant conditioning behavioral task. Implemented several tasks to test the adaptive learning advantages of the co-release mechanism.
+  image: assets/
+
+- title: Modeling Synaptic Sign Switching
+  date: Nov 2024 - Feb 2025
+  institution: Sabatini Lab
+  institution_url: https://sabatini.hms.harvard.edu/
+  description: By shifting data targets throughout ANN learning, we developed a task to evaluate synaptic sign switching. Comparing sign-fixed ANNs following Dale's Law to co-releasing ANNs showed advantages of the co-release mechanism in sparsely active networks.
+  image: assets/
