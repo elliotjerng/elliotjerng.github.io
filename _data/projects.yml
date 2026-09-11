@@ -5,8 +5,9 @@
   link_text: Task Proposal
   link_url: https://github.com/harbor-framework/terminal-bench-science/discussions/509
   description: Contributing a task on biophysical parameter recovery in single-neuron modeling to Terminal Bench Science — a benchmark evaluating AI agents on real computational workflows from scientific research. This benchmark aims to drive scientific progress in AI agents at frontier labs by defining what those labs optimize for.
-  image: assets/
-  caption:
+  image: assets/img/tb_science_viz.jpg
+  image_scale: 110
+  caption: Image from Terminal Bench
 
 - title: Classifying Hand Movements from sEMG Data
   date: Mar 2026
@@ -15,14 +16,18 @@
   link_text: Code
   link_url: https://github.com/elliotjerng/sEMG
   description: Built linear and non-linear classifiers from scratch (LDA, SVM, KNN, MLP) to recreate state of the art results for hand movement classification.
-  image: assets/img/Ninapro_hand_pose.gif
+  image: assets/img/Some-Movements-in-NinaPro-DB5.png
+  image_scale: 87
+  caption: Image from NinaPro
 
 - title: Calcium Imaging Data Analysis Pipeline
   date: Aug 2025 - Feb 2026
   institution: AbbVie
   institution_url: https://www.abbvie.com/
-  description: Built a Streamlit app for spike-detection and customizable data analysis of calcium-imaging data. The app was designed to identify schizophrenia-relevant phenotypes in high-throughput calcium imaging data. 
-  image: assets/
+  description: Built a Streamlit app for spike-detection and customizable data analysis of calcium-imaging data. The app was designed to identify schizophrenia-relevant phenotypes in high-throughput calcium imaging data.
+  image: assets/img/calcium_imaging.jpg
+  image_scale: 90
+  caption: Image from Qian Chen
 
 - title: Reinforcement Learning Model of Co-releasing Circuits
   date: Jul 2025 - Nov 2025
@@ -30,8 +35,8 @@
   institution_url: https://sabatini.hms.harvard.edu/
   link_text: Code
   link_url: https://github.com/shunnnli/EP-LHb-model
-  description: Developed a custom reinforcement learning environment to model our operant conditioning behavioral task. Implemented several tasks to test the adaptive learning advantages of the co-release mechanism.
-  image: assets/img/RL_viz.jpg
+  description: Developed a custom reinforcement learning environment to model our operant conditioning behavioral licking task. Implemented several tasks to test the adaptive learning advantages of the co-release mechanism.
+  image: assets/img/Lick_raster_viz.jpg
 
 - title: Modeling Synaptic Sign Switching
   date: Nov 2024 - Feb 2025
@@ -40,4 +45,7 @@
   link_text: Code
   link_url: https://github.com/elliotjerng/SynapticPlasticityModel
   description: By shifting data targets throughout ANN learning, we developed a task to evaluate synaptic sign switching. Comparing sign-fixed ANNs following Dale's Law to co-releasing ANNs showed advantages of the co-release mechanism in sparsely active networks.
-  image: assets/
+  images:
+  - src: assets/img/EP_LHb_Circuit_vis.png
+    caption: Graphic from Shun Li
+  - src: assets/img/corelease_advantage.png
